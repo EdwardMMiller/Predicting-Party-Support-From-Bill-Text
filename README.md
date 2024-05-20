@@ -11,8 +11,6 @@ Additional packages installed via pip command in Google Colab
 #### pip install tensorflow-hub
 
 
-## NOTE: As of right now, the Juypyter notebook is not displaying in Github as a preview. As a workaround, one can open it from the link below instead:
-
-https://colab.research.google.com/drive/180lu1PP6YPEx_QaOqbo8Di1dO8z9opjG#scrollTo=LAP2PHa0Vg4_
+## NOTE: As of right now, the Juypyter notebook is not displaying in Github as a preview. Until the issue is resolved, as a workaround, one can download it and open it that way instead. 
 
 
